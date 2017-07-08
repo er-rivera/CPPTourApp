@@ -1,0 +1,80 @@
+[
+     {
+        "latitude": "34.060853",
+        "longtitude": "-117.812313",
+        "name": "Interim Design Center Building 89",
+        "number": "Stop #268"
+     },
+     {
+        "latitude": "34.060928",
+        "longtitude": "-117.815630",
+        "name": "Univ. Police/Parking Services",
+        "number": "Stop #254"
+     },
+     {
+        "latitude": "34.060505",
+        "longtitude": "-117.815581",
+        "name": "Oak Lane/F lots",
+        "number": "Stop #243"
+     },
+     {
+        "latitude": "34.061635",
+        "longtitude": "-117.816735",
+        "name": "Cypress Lane/F Lots",
+        "number": "Stop #244"
+     },
+     {
+        "latitude": "34.061571",
+        "longtitude": "-117.820704",
+        "name": "Rose Garden/Coll of Business",
+        "number": "Stop #253"
+     },
+     {
+        "latitude": "34.059540",
+        "longtitude": "-117.823518",
+        "name": "Building 94",
+        "number": "Stop #252"
+     },
+     {
+        "latitude": "34.059334",
+        "longtitude": "-117.824108",
+        "name": "Building 1",
+        "number": "Stop #246"
+     },
+     {
+        "latitude": "34.057986",
+        "longtitude": "-117.827137",
+        "name": "Student Health Services",
+        "number": "Stop #247"
+     },
+     {
+        "latitude": "34.056970",
+        "longtitude": "-117.827728",
+        "name": "Building 7 - College of Environmental Design",
+        "number": "Stop #251"
+     },
+     {
+        "latitude": "34.055375",
+        "longtitude": "-117.824849",
+        "name": "Collins College/Kellogg West(Northbound)",
+        "number": "Stop #250"
+     },
+     {
+        "latitude": "34.055384",
+        "longtitude": "-117.824878",
+        "name": "Collins College/Kellogg West(Southbound)",
+        "number": "Stop #293"
+     },
+     {
+        "latitude": "34.048547",
+        "longtitude": "-117.819765",
+        "name": "Agriscapes/Farm Store",
+        "number": "Stop #249"
+     },
+     {
+        "latitude": "34.049763",
+        "longtitude": "-117.816862",
+        "name": "So Campus/Temple",
+        "number": "Stop #289"
+     }
+]

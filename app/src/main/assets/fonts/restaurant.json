@@ -1,0 +1,86 @@
+[
+     {
+        "latitude": "34.057557",
+        "longtitude": "-117.821598",
+        "name": "Starbuck",
+        "number": "15"
+     },
+     {
+        "latitude": "34.054038",
+        "longtitude": "-117.818083",
+        "name": "The Den By Denny's",
+        "number": "52"
+     },
+     {
+        "latitude": "34.053949",
+        "longtitude": "-117.818072",
+        "name": "Vista Market",
+        "number": "52"
+     },
+     {
+        "latitude": "34.057727",
+        "longtitude": "-117.823322",
+        "name": "Panda Express",
+        "number": "97"
+     },
+     {
+        "latitude": "34.057715",
+        "longtitude": "-117.823238",
+        "name": "Carl's Jr.",
+        "number": "97"
+     },
+     {
+        "latitude": "34.061503",
+        "longtitude": "-117.811642",
+        "name": "QDOBA Mexican Eats",
+        "number": "Bronco Student Center"
+     },
+     {
+        "latitude": "34.060712",
+        "longtitude": "-117.812662",
+        "name": "Hibachi-San",
+        "number": "Bronco Student Center"
+     },
+     {
+        "latitude": "34.0615962",
+        "longtitude": "-117.816993",
+        "name": "Subway",
+        "number": "Bronco Student Center"
+     },
+     {
+        "latitude": "34.06109",
+        "longtitude": "-117.814538",
+        "name": "Peet's Cofee & Tea",
+        "number": "Bronco Student Center"
+     },
+     {
+        "latitude": "34.055623",
+        "longtitude": "-117.819716",
+        "name": "The Restaurant At Kellogg Ranch",
+        "number": "G"
+     },
+     {
+        "latitude": "34.056615",
+        "longtitude": "-117.824869",
+        "name": "波莫纳宾馆",
+        "number": "J"
+     },
+     {
+        "latitude": "34.055763",
+        "longtitude": "-117.829586",
+        "name": "Jamba Juice",
+        "number": "M"
+     },
+     {
+        "latitude": "34.061511",
+        "longtitude": "-117.820270",
+        "name": "Einstein Bros. Bagels",
+        "number": "P"
+     },
+     {
+        "latitude": "34.054515",
+        "longtitude": "-117.815434",
+        "name": "Parking Lot Q (Residence Parking)",
+        "number": "Q"
+     }
+]

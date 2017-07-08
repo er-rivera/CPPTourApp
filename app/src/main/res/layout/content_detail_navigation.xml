@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/nav_display_bottom_sheet"
+    android:layout_width="match_parent"
+    android:layout_height="400dp"
+    android:background="@color/colorDetail"
+    android:orientation="vertical"
+    app:behavior_hideable="true"
+    app:behavior_peekHeight="@dimen/bottom_sheet_peek_height"
+    app:layout_behavior="@string/bottom_sheet_behavior">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="@dimen/bottom_sheet_peek_height"
+            android:background="@color/colorPrimary"
+            android:orientation="horizontal"
+            android:paddingEnd="16dp"
+            android:paddingStart="16dp">
+
+            <LinearLayout
+                android:paddingBottom="8dp"
+                android:paddingTop="8dp"
+                android:layout_weight="6"
+                android:gravity="center"
+                android:layout_marginTop="5dp"
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/nav_display_distance"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textColor="@android:color/white"
+                    android:textSize="26sp" />
+
+                <TextView
+                    android:id="@+id/nav_display_time"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="5dp"
+                    android:textColor="@android:color/white"
+                    android:textSize="14sp" />
+
+            </LinearLayout>
+            <View
+                android:id="@+id/nav_dividerView"
+                android:visibility="invisible"
+                android:layout_margin="4dp"
+                android:layout_width="1dip"
+                android:layout_height="match_parent"
+                android:background="@android:color/white"/>
+
+            <LinearLayout
+                android:id="@+id/nav_start_container"
+                android:visibility="gone"
+                android:layout_weight="1"
+                android:paddingBottom="8dp"
+                android:paddingTop="8dp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center">
+
+                <ImageButton
+                    android:id="@+id/nav_beginButton"
+                    android:layout_width="45dp"
+                    android:layout_height="45dp"
+                    android:background="@null"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/navigation_btn"/>
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="START"
+                    android:textColor="@android:color/white"
+                    android:textSize="14sp" />
+            </LinearLayout>
+            <Button
+                android:id="@+id/nav_recenter"
+                android:visibility="gone"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="RECENTER"
+                android:layout_gravity="center"
+                android:background="@android:color/white"
+                android:textColor="@color/colorPrimary"/>
+        </LinearLayout>
+
+        <siliconsolutions.cpptourapp.View.BottomSheetListView
+            android:dividerHeight="1dp"
+            android:id="@+id/nav_step_list"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </LinearLayout>
+</LinearLayout>

@@ -1,0 +1,1573 @@
+[
+  {
+    "description": "Economics Building, IT Service Desk",
+    "latitude": "34.059534",
+    "longtitude": "-117.824159",
+    "name": "Building One",
+    "number": "1",
+    "offices": [
+      {
+        "name": "Academic Research and Resources",
+        "room": "110",
+        "phone": "(909)869-3405"
+      },
+      {
+        "name": "Admissions & Enrollment Services",
+        "room": "221",
+        "phone": "(909)869-3362"
+      },
+      {
+        "name": "Advertising Office",
+        "room": "210",
+        "phone": "(909)869-3528"
+      },
+      {
+        "name": "ARCHES",
+        "room": "214",
+        "phone": "(909)869-2386"
+      },
+      {
+        "name": "Cal Poly Pomona IT Service Desk",
+        "room": "100",
+        "phone": "(909)869-6776"
+      },
+      {
+        "name": "Economics Department",
+        "room": "340",
+        "phone": "(909)869-3842"
+      },
+      {
+        "name": "Information Systems",
+        "room": "211",
+        "phone": "(909)869-4320"
+      },
+      {
+        "name": "Kellogg Honors College",
+        "room": "201",
+        "phone": "(909)869-3355"
+      },
+      {
+        "name": "Philosophy Department",
+        "room": "321",
+        "phone": "(909)869-4766"
+      },
+      {
+        "name": "Science, Technology and Society Program",
+        "room": "325",
+        "phone": "(909)869-4766"
+      },
+      {
+        "name": "Study Abroad",
+        "room": "104",
+        "phone": "(909)869-4682"
+      }
+    ],
+    "image": "http://i.imgur.com/SLs2mVX.gif",
+    "floorplan": "https://i.imgur.com/wkoGREw.png"
+  },
+  {
+    "description": "Agriculture/Plant Sciences Building",
+    "latitude": "34.057613",
+    "longtitude": "-117.826722",
+    "name": "College of Agriculture",
+    "number": "2",
+    "offices": [
+      {
+        "name": "Agribusiness & Food Industry Management Department",
+        "room": "207",
+        "phone": "(909) 869-2207"
+      },
+      {
+        "name": "Animal & Veterinary Sciences Department",
+        "room": "123",
+        "phone": "(909) 869-2216"
+      },
+      {
+        "name": "Plant Science Department",
+        "room": "209",
+        "phone": "(909) 869-2214"
+      }
+    ],
+    "image": "http://i.imgur.com/RpzjZsi.gif",
+    "floorplan": "https://i.imgur.com/ydoV9eD.png"
+  },
+  {
+    "description": "College of Science Advising Center, General Purpose Labs",
+    "latitude": "34.058005",
+    "longtitude": "-117.825393",
+    "name": "Science Laboratory",
+    "number": "3",
+    "offices": [
+      {
+        "name": "College of Science Advising Center",
+        "room": "1645",
+        "phone": "(909)979-5654"
+      },
+      {
+        "name": "LSAMP & Discover Camps",
+        "room": "1622",
+        "phone": "(909)869-2069"
+      },
+      {
+        "name": "Science Educational Enhancement Services ( SEES )",
+        "room": "1622",
+        "phone": "(909)869-2069"
+      }
+    ],
+    "image": "http://i.imgur.com/0hT2tVO.gif",
+    "floorplan": "https://i.imgur.com/3Afepv7.png"
+  },
+  {
+    "description": "Biotechnology Building, Biology Labs",
+    "latitude": "34.057498",
+    "longtitude": "-117.825093",
+    "name": "Biotechnology",
+    "number": "4",
+    "offices": [
+      {
+        "name": "Center for Excellence in Mathematics and Science Teaching ( CEMST )",
+        "room": "2-515",
+        "phone": "(909)869-4063"
+      },
+      {
+        "name": "Institute for Cellular & Molecular Biology ( ICMB )",
+        "room": "3-448",
+        "phone": "(909)869-4047"
+      }
+    ],
+    "image": "http://i.imgur.com/qLWx58e.gif",
+    "floorplan": "https://i.imgur.com/VEqtcV4.png"
+  },
+  {
+    "description": "",
+    "latitude": "34.057868",
+    "longtitude": "-117.824149",
+    "name": "College of Letters, Arts and Social Sciences",
+    "number": "5",
+    "offices": [
+      {
+        "name": "Anthropology Lab",
+        "room": "128",
+        "phone": "(909)869-3591"
+      },
+      {
+        "name": "Center for Geographic Information Science Research/GIS",
+        "room": "215",
+        "phone": "(909)869-3500"
+      },
+      {
+        "name": "College of Letters, Arts, and Social Sciences",
+        "room": "158",
+        "phone": "(909)869-3500"
+      },
+      {
+        "name": "Criminal Justice Program",
+        "room": "113",
+        "phone": "(909)869-3902"
+      },
+      {
+        "name": "Department of Education",
+        "room": "223A",
+        "phone": "(909)869-2312"
+      },
+      {
+        "name": "Geography & Anthropology Department",
+        "room": "152",
+        "phone": "(909)869-3569"
+      },
+      {
+        "name": "Geography Lab",
+        "room": "131",
+        "phone": "(909)869-3590"
+      },
+      {
+        "name": "M.A. in Education",
+        "room": "226",
+        "phone": "(909)2358"
+      },
+      {
+        "name": "Psychology and Sociology",
+        "room": "110",
+        "phone": "(909)869-3888"
+      }
+    ],
+    "image": "http://i.imgur.com/4US54Gj.gif",
+    "floorplan": "https://i.imgur.com/zpDtNII.png"
+  },
+  {
+    "description": "College of Education and Integrative Studies",
+    "latitude": "34.058599",
+    "longtitude": "-117.822829",
+    "name": "Classrooms (formerly CBA)",
+    "number": "6",
+    "offices": [
+      {
+        "name": "College of Education and Integrative Studies",
+        "room": "215",
+        "phone": "(909)869-2300"
+      },
+      {
+        "name": "Credential Office",
+        "room": "210",
+        "phone": "(909)869-4400"
+      },
+      {
+        "name": "Four Year Graduation Pledge",
+        "room": "219",
+        "phone": "(909)869-3121"
+      },
+      {
+        "name": "MBA",
+        "room": "109",
+        "phone": "(909)869-2363"
+      }
+    ],
+    "image": "http://i.imgur.com/YIrPL4A.gif",
+    "floorplan": "https://i.imgur.com/8c6ULUB.png"
+  },
+  {
+    "description": "Architecture Building, Food/Nutrition Department,",
+    "latitude": "34.057115",
+    "longtitude": "-117.82743",
+    "name": "College of Environmental Design",
+    "number": "7",
+    "offices": [
+      {
+        "name": "Architecture Department",
+        "room": "210",
+        "phone": "(909)869-2683"
+      },
+      {
+        "name": "College of Environmental Design",
+        "room": "107",
+        "phone": "(909)869-2666"
+      },
+      {
+        "name": "Environmental Design Student Affairs",
+        "room": "107",
+        "phone": "(909)869-2670"
+      },
+      {
+        "name": "Food, Nutrition & Consumer Sciences Department",
+        "room": "110",
+        "phone": "(909)869-2226"
+      },
+      {
+        "name": "Human Nutrition and Food Science Department",
+        "room": "110",
+        "phone": "(909)869-2226"
+      },
+      {
+        "name": "Institute for International Studies",
+        "room": "103E",
+        "phone": "(909)869-2691"
+      },
+      {
+        "name": "Landscape Architucture Department",
+        "room": "222",
+        "phone": "(909)869-2673"
+      },
+      {
+        "name": "Nutrition & Food Science",
+        "room": "110",
+        "phone": "(909)869-2226"
+      },
+      {
+        "name": "Office for College Advancement/Public Affairs",
+        "room": "224",
+        "phone": "(909)869-4468"
+      },
+      {
+        "name": "Urban & Regional Planning Department",
+        "room": "224",
+        "phone": "(909)869-4688"
+      }
+    ],
+    "image": "http://i.imgur.com/laCEQQM.gif",
+    "floorplan": "https://i.imgur.com/5TcmWnf.png"
+  },
+  {
+    "description": "Biology Department, Computer Science Department, Mathematics Department, Physics Department",
+    "latitude": "34.058773",
+    "longtitude": "-117.824517",
+    "name": "College of Science",
+    "number": "8",
+    "offices": [
+      {
+        "name": "Animal Room",
+        "room": "8-420",
+        "phone": "(909) 869-4071"
+      },
+      {
+        "name": "College of Science",
+        "room": "8-3",
+        "phone": "(909) 869-3600"
+      },
+      {
+        "name": "Computer Science Department",
+        "room": "8-49",
+        "phone": "(909) 869-3440"
+      },
+      {
+        "name": "Department of Mathematics and Statistics",
+        "room": "8-113",
+        "phone": "(909) 869-3142"
+      },
+      {
+        "name": "Department of Physics and Astronomy",
+        "room": "8-231",
+        "phone": "(909) 869-4014"
+      },
+      {
+        "name": "Geological Sciences Department",
+        "room": "8-242",
+        "phone": "(909) 869-3454"
+      },
+      {
+        "name": "Greenhouse",
+        "room": "8-405",
+        "phone": "(909) 869-4072"
+      },
+      {
+        "name": "Math Lab",
+        "room": "8-147",
+        "phone": "(909) 869-4009"
+      },
+      {
+        "name": "Snake Room",
+        "room": "8-417",
+        "phone": "(909) 869-4071"
+      },
+      {
+        "name": "Stockroom",
+        "room": "8-234",
+        "phone": "(909) 869-3648"
+      },
+      {
+        "name": "Stockroom 1",
+        "room": "8-238",
+        "phone": "(909) 869-4033"
+      },
+      {
+        "name": "Teacher Associate Office",
+        "room": "8-28",
+        "phone": "(909) 869-4290"
+      }
+    ],
+    "image": "http://i.imgur.com/vfa4sIc.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Engineering Classrooms",
+    "latitude": "34.058927",
+    "longtitude": "-117.822284",
+    "name": "College of Engineering",
+    "number": "9",
+    "offices": [
+      {
+        "name": "College of Engineering",
+        "room": "9-225",
+        "phone": "9-225"
+      },
+      {
+        "name": "ECE",
+        "room": "9-407",
+        "phone": "(909) 869-2511"
+      },
+      {
+        "name": "Electrical & Computer Engineering Department",
+        "room": "9-407",
+        "phone": "(909) 869-2511"
+      },
+      {
+        "name": "Electronics Lab",
+        "room": "9-506",
+        "phone": "9-506"
+      },
+      {
+        "name": "Engineering Institute",
+        "room": "9-225",
+        "phone": "9-225"
+      },
+      {
+        "name": "Engineering Technology Department",
+        "room": "9-244",
+        "phone": "(909) 869-2492"
+      },
+      {
+        "name": "Interpreter Coordinator",
+        "room": "9-103",
+        "phone": "(909) 869-5359"
+      },
+      {
+        "name": "Lighting Education/Research",
+        "room": "9-324",
+        "phone": "(909) 869-3975"
+      },
+      {
+        "name": "Maximizing Engineering Potential",
+        "room": "9-153",
+        "phone": "(909) 869-2482"
+      },
+      {
+        "name": "Office of Undergraduate Research",
+        "room": "9-258",
+        "phone": "(909) 869-5296"
+      },
+      {
+        "name": "TDD",
+        "room": "9-103",
+        "phone": "(909) 869-4178"
+      },
+      {
+        "name": "Testing Coordinator",
+        "room": "9-103",
+        "phone": "(909) 869-3269"
+      }
+    ],
+    "image": "http://i.imgur.com/NTeZ8l3.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Art Department",
+    "latitude": "34.058742",
+    "longtitude": "-117.820802",
+    "name": "Art Department and Engineering Annex",
+    "number": "13",
+    "offices": [
+      {
+        "name": "Art Department",
+        "room": "13-2113",
+        "phone": "(909) 869-3508"
+      }
+    ],
+    "image": "http://i.imgur.com/2KvzeGV.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Library, Starbucks, University Archives",
+    "latitude": "34.057921",
+    "longtitude": "-117.821341",
+    "name": "Library",
+    "number": "15",
+    "offices": [
+      {
+        "name": "",
+        "room": "",
+        "phone": "(909)"
+      },
+      {
+        "name": "Arabian Horse Library",
+        "room": "15-1734",
+        "phone": "(909) 869-3092"
+      },
+      {
+        "name": "Circulation Department",
+        "room": "15-4",
+        "phone": "(909) 869-3075"
+      },
+      {
+        "name": "Circulation Services (Menu Driven Recording)",
+        "room": "15-101",
+        "phone": "(909) 869-3074"
+      },
+      {
+        "name": "Collection Management",
+        "room": "15-104",
+        "phone": "(909) 869-3076"
+      },
+      {
+        "name": "Database Access",
+        "room": "15-123C",
+        "phone": "(909) 869-3085"
+      },
+      {
+        "name": "Development/Community Outreach",
+        "room": "15-123E",
+        "phone": "(909) 869-3086"
+      },
+      {
+        "name": "Document Delivery/Inter Library Loan",
+        "room": "15-2533",
+        "phone": "(909) 869-3111"
+      },
+      {
+        "name": "eLearning",
+        "room": "15-2334",
+        "phone": "(909) 979-3099"
+      },
+      {
+        "name": "Information Competence/Library Instruction",
+        "room": "Information Competence/Library Instruction",
+        "phone": "(909) 869-3076"
+      },
+      {
+        "name": "Learning Resource Center",
+        "room": "15-2921",
+        "phone": "(909) 869-3502"
+      },
+      {
+        "name": "Overdues/Fines",
+        "room": "15-101",
+        "phone": "(909) 869-3075"
+      },
+      {
+        "name": "Reading, Advising & Mentoring Program- LRC",
+        "room": "15-2921",
+        "phone": "(909) 869-4349"
+      },
+      {
+        "name": "Receiving/Mail Distribution",
+        "room": "15-6",
+        "phone": "(909) 869-3094"
+      },
+      {
+        "name": "Reference Office",
+        "room": "15-104",
+        "phone": "(909) 869-3076"
+      },
+      {
+        "name": "Reserves",
+        "room": "15-101",
+        "phone": "(909) 869-4212"
+      },
+      {
+        "name": "Starbucks",
+        "room": "15-1836",
+        "phone": "15-1836"
+      },
+      {
+        "name": "Student Development",
+        "room": "15-14",
+        "phone": "(909) 869-4096"
+      },
+      {
+        "name": "Systems",
+        "room": "15-123C",
+        "phone": "(909) 869-3085"
+      },
+      {
+        "name": "University Archives",
+        "room": "15-326",
+        "phone": "(909) 869-2087"
+      },
+      {
+        "name": "University Writing Center",
+        "room": "15-2919",
+        "phone": "(909) 869-3502"
+      }
+    ],
+    "image": "http://i.imgur.com/cLscPyB.gif",
+    "floorplan": "https://i.imgur.com/Wj2EsUy.png"
+  },
+  {
+    "description": "Aerospace Engineering Department, Chemical Engineering Department, Civil Engineering Department, Mechanical Engineering Department",
+    "latitude": "34.060005",
+    "longtitude": "-117.821009",
+    "name": "Engineering Laboratories",
+    "number": "17",
+    "offices": [
+      {
+        "name": "Aerospace Engineering Department",
+        "room": "17-2132",
+        "phone": "(909) 869-2470"
+      },
+      {
+        "name": "Civil Engineering Department",
+        "room": "17-2651",
+        "phone": "(909) 869-2488"
+      },
+      {
+        "name": "Industrial & Manufacturing Engineering Department",
+        "room": "17-2643",
+        "phone": "(909) 869-2555"
+      }
+    ],
+    "image": "http://i.imgur.com/Qd6IEbJ.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Residential Halls",
+    "latitude": "34.062315",
+    "longtitude": "-117.820915",
+    "name": "Residence Hall, Encinitas",
+    "number": "20",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/siJGcgk.gif",
+    "floorplan": "https://i.imgur.com/QbANZBU.png"
+  },
+  {
+    "description": "Residential Halls",
+    "latitude": "34.0621737",
+    "longtitude": "-117.8180418",
+    "name": "Residence Hall, Alamitos",
+    "number": "22",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/QJOSmRE.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Residential Halls",
+    "latitude": "34.0628732",
+    "longtitude": "-117.8178452",
+    "name": "Residence Hall, Aliso",
+    "number": "23",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/CWF80Xy.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Music Department, Foreign Languages Department",
+    "latitude": "34.056965",
+    "longtitude": "-117.822711",
+    "name": "Music",
+    "number": "24",
+    "offices": [
+      {
+        "name": "English & Foreign Languages Department",
+        "room": "24-214",
+        "phone": "(909) 869-3940"
+      }
+    ],
+    "image": "http://i.imgur.com/jF9GPgr.gif",
+    "floorplan": "https://i.imgur.com/mzKkCa8.png"
+  },
+  {
+    "description": "Department of Theatre and New Dance",
+    "latitude": "34.056047",
+    "longtitude": "-117.822649",
+    "name": "Drama Department/Theatre",
+    "number": "25",
+    "offices": [
+      {
+        "name": "",
+        "room": "",
+        "phone": "(909)"
+      },
+      {
+        "name": "Department of Theatre and New Dance",
+        "room": "25-114",
+        "phone": "(909)869-3900"
+      }
+    ],
+    "image": "http://i.imgur.com/wv8htoR.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "’The Stables’, Student Clubs",
+    "latitude": "34.0569751",
+    "longtitude": "-117.8204747",
+    "name": "University Plaza",
+    "number": "26",
+    "offices": [
+      {
+        "name": "B.E.A.T Office",
+        "room": "26-105A",
+        "phone": "(909) 869-3610"
+      },
+      {
+        "name": "Dean of Students",
+        "room": "",
+        "phone": "(909) 869-6990"
+      },
+      {
+        "name": "Judiciary",
+        "room": "26-110",
+        "phone": "26-110"
+      },
+      {
+        "name": "Latter Day Saints Students Association",
+        "room": "26-133",
+        "phone": "(909) 869-3623"
+      },
+      {
+        "name": "Native American Student Center",
+        "room": "26-103",
+        "phone": "(909) 869-3967"
+      },
+      {
+        "name": "Pride Center",
+        "room": "26-107",
+        "phone": "(909) 869-3601"
+      },
+      {
+        "name": "REACH",
+        "room": "26-124",
+        "phone": "(909) 869-3601"
+      },
+      {
+        "name": "Student Conduct & Integrity",
+        "room": "26-110",
+        "phone": "(909) 869-6985"
+      }
+    ],
+    "image": "http://i.imgur.com/o9ZWXq5.gif",
+    "floorplan": "https://i.imgur.com/tVsmAGD.png"
+  },
+  {
+    "description": "Veterinarian Clinic and Office",
+    "latitude": "34.0586695",
+    "longtitude": "-117.814733",
+    "name": "W.K. Kellogg Arabian Horse Center",
+    "number": "29",
+    "offices": [
+      {
+        "name": "Arabian Horse Center",
+        "room": "29-100",
+        "phone": "(909) 869-2224"
+      }
+    ],
+    "image": "http://i.imgur.com/n2katQO.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Beef Unit/Feed Shed",
+    "latitude": "34.055126",
+    "longtitude": "-117.828482",
+    "name": "Beef Unit Feed Shed",
+    "number": "32",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/qaucLpj.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Restaurantes, Games room, Lost and Found",
+    "latitude": "34.056123",
+    "longtitude": "-117.821242",
+    "name": "Bronco Student Center",
+    "number": "35",
+    "offices": [
+      {
+        "name": "ASI Beat",
+        "room": "35-2002",
+        "phone": "(909) 869-4455"
+      },
+      {
+        "name": "ASI Box Office/Discount Ticket Sales",
+        "room": "35-1110",
+        "phone": "(909) 869-4467"
+      },
+      {
+        "name": "Associated Students Incorporated",
+        "room": "35-2122",
+        "phone": "(909) 869-2800"
+      },
+      {
+        "name": "Attorney General",
+        "room": "35-1339E",
+        "phone": "(909) 869-4310"
+      },
+      {
+        "name": "Business Office",
+        "room": "35-2123",
+        "phone": "(909) 869-2800"
+      },
+      {
+        "name": "Commercial Services",
+        "room": "35-1110-E",
+        "phone": "(909) 869-2859"
+      },
+      {
+        "name": "Conference & Events Services",
+        "room": "35-2359-I",
+        "phone": "(909) 869-2847"
+      },
+      {
+        "name": "Custodial Services",
+        "room": "35-2359-E",
+        "phone": "(909) 869-6805"
+      },
+      {
+        "name": "Games Room Etc.",
+        "room": "35-1110",
+        "phone": "(909) 869-4467"
+      },
+      {
+        "name": "Gas Creative Group",
+        "room": "35-2002",
+        "phone": "(909) 869-2158"
+      }
+    ],
+    "image": "http://i.imgur.com/YC6kn7S.gif",
+    "floorplan": "https://i.imgur.com/Wz646eV.png"
+  },
+  {
+    "description": "Swine shelters",
+    "latitude": "34.052231",
+    "longtitude": "-117.822907",
+    "name": "Swine Unit/Shelters",
+    "number": "37",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Sheep unit",
+    "latitude": "34.052219",
+    "longtitude": "-117.822342",
+    "name": "Sheep/Wool Unit",
+    "number": "38",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Secondary Gymnasium",
+    "latitude": "34.05403",
+    "longtitude": "-117.821299",
+    "name": "Darlene May Gymnasium",
+    "number": "41",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/b1wMJAx.gif",
+    "floorplan": "https://i.imgur.com/vNi3VnU.png"
+  },
+  {
+    "description": "On Campus Gym for Students",
+    "latitude": "34.054025",
+    "longtitude": "-117.821286",
+    "name": "Bronco Recreation Intramural Complex (BRIC)",
+    "number": "42",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Main Gymnasium",
+    "latitude": "34.054283",
+    "longtitude": "-117.819003",
+    "name": "Kellogg Gymnasium",
+    "number": "43",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/2amc1FC.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Apparel Merchandising and Management Department",
+    "latitude": "34.0610187",
+    "longtitude": "-117.8111215",
+    "name": "Agricultural Engineering Building",
+    "number": "45",
+    "offices": [
+
+    ],
+    "image": "http://i.imgur.com/8570exc.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Suite building for first year Students, Housing Center for Suite Residents",
+    "latitude": "34.055696",
+    "longtitude": "-117.818844",
+    "name": "Residence Suites, Vista De La Estrellas",
+    "number": "54",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": "https://i.imgur.com/vAkWGJv.png"
+  },
+  {
+    "description": "Foundation Administration",
+    "latitude": "34.056274",
+    "longtitude": "-117.819834",
+    "name": "Foundation Administration Offices",
+    "number": "55",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/LPbE3KU.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Residence Hall",
+    "latitude": "34.06052",
+    "longtitude": "-117.822334",
+    "name": "Residence Hall, Palmitas",
+    "number": "57",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/nQIkRmD.gif",
+    "floorplan": "https://i.imgur.com/Wvd0J39.png"
+  },
+  {
+    "description": "Residence Hall",
+    "latitude": "34.061524",
+    "longtitude": "-117.821189",
+    "name": "Residence Hall, Cedritos",
+    "number": "58",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/vdE9Jj9.gif",
+    "floorplan": "https://i.imgur.com/wYNyW7g.png"
+  },
+  {
+    "description": "Housing Services Center",
+    "latitude": "34.060816",
+    "longtitude": "-117.821966",
+    "name": "La Cienege Center (Univ. Housing Services)",
+    "number": "59",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/rWAxphz.gif",
+    "floorplan": "https://i.imgur.com/LynNjoj.png"
+  },
+  {
+    "description": "Residential Suites",
+    "latitude": "34.054834",
+    "longtitude": "-117.818581",
+    "name": "Residence Suites, Vista Bonita",
+    "number": "60",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/0dEHr6e.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Residential Suites",
+    "latitude": "34.05476",
+    "longtitude": "-117.818001",
+    "name": "Residence Suites, Vista Del Sol",
+    "number": "61",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/324Blei.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Residential Suites",
+    "latitude": "34.054426",
+    "longtitude": "-117.817415",
+    "name": "Residence Suites, Vista De Las Montanas",
+    "number": "62",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Residential Suites",
+    "latitude": "34.053777",
+    "longtitude": "-117.817421",
+    "name": "Residence Suites, Vista De La Luna",
+    "number": "63",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": "https://i.imgur.com/VEqtcV4.png"
+  },
+  {
+    "description": "Bookstore, Kinesiology department",
+    "latitude": "34.055954",
+    "longtitude": "-117.820448",
+    "name": "Bronco Bookstore",
+    "number": "66",
+    "offices": [
+      {
+        "name": "Finance Society",
+        "room": "66-222",
+        "phone": "(909) 869-3796"
+      },
+      {
+        "name": "Industrial Research for Pacific Nations Institute",
+        "room": "66-217",
+        "phone": "(909) 869-2399"
+      },
+      {
+        "name": "Kinesiology & Health Promotion Department",
+        "room": "66-210",
+        "phone": "(909) 869-2768"
+      }
+    ],
+    "image": "http://i.imgur.com/HKQdv3r.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Equine Research Facility",
+    "latitude": "34.0596694",
+    "longtitude": "-117.8141489",
+    "name": "Equine Research Facility",
+    "number": "67",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/kOQ2t6k.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Cafeteria",
+    "latitude": "34.062368",
+    "longtitude": "-117.821586",
+    "name": "Los Olivos Commons",
+    "number": "70",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/2gZfwpw.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Maintenance Building",
+    "latitude": "34.0630128",
+    "longtitude": "-117.8167031",
+    "name": "Recreation/Maintenance Building",
+    "number": "71",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/5O14roS.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Dining hall for on campus hotel",
+    "latitude": "34.056697",
+    "longtitude": "-117.8247",
+    "name": "Kellogg West Education/Dining",
+    "number": "76",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/KQ3zwTR.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Main Hotel Lodge",
+    "latitude": "34.056288",
+    "longtitude": "-117.825939",
+    "name": "Kellogg West Main Lodge",
+    "number": "77",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/dKeNClb.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Additional hotel rooms",
+    "latitude": "34.056688",
+    "longtitude": "-117.825821",
+    "name": "Kellog West Addition",
+    "number": "78",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/D0agenh.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "College of Hospitality",
+    "latitude": "34.05506",
+    "longtitude": "-117.824406",
+    "name": "Collins College of Hospitality Management",
+    "number": "79",
+    "offices": [
+      {
+        "name": "Restaurant at Kellog Ranch, The (Reservations)",
+        "room": "102",
+        "phone": "(909)869-4700"
+      }
+    ],
+    "image": "http://i.imgur.com/PmlS16H.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Marriot Learning Center",
+    "latitude": "34.054991",
+    "longtitude": "-117.824855",
+    "name": "Collins College of Hospitality Management",
+    "number": "80",
+    "offices": [
+    ],
+    "image": "https://www.cpp.edu/maps/common/structure_imgs/Bg-80.jpg",
+    "floorplan": "https://i.imgur.com/aeuawjV.png"
+  },
+  {
+    "description": "On Campus High School",
+    "latitude": "34.050954",
+    "longtitude": "-117.819501",
+    "name": "I-Poly High School",
+    "number": "85",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/j6AmLYy.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "English Language Institute(ELI)",
+    "latitude": "34.053343",
+    "longtitude": "-117.819722",
+    "name": "English Language Institute",
+    "number": "86",
+    "offices": [
+      {
+        "name": "Cal Poly English Language Institute",
+        "room": "121",
+        "phone": "(909)869-4814"
+      }
+    ],
+    "image": "http://i.imgur.com/tBNsbEA.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Interim Design Center",
+    "latitude": "34.0604758",
+    "longtitude": "-117.8122982",
+    "name": "Interim Design Center",
+    "number": "89",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/WLUBRbP.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "History Department, Political Science Department, Undeclared Major Advising",
+    "latitude": "34.059374",
+    "longtitude": "-117.823327",
+    "name": "University Office Building",
+    "number": "94",
+    "offices": [
+      {
+        "name": "Agricultural Research Institute",
+        "room": "94-352",
+        "phone": "(909) 869-3637"
+      },
+      {
+        "name": "Conference Room",
+        "room": "94-122",
+        "phone": "(909) 869-4469"
+      },
+      {
+        "name": "E-Business Program",
+        "room": "94-203",
+        "phone": "(909) 869-2453"
+      },
+      {
+        "name": "Educational Equity Services (EES)",
+        "room": "94-121",
+        "phone": "(909) 869-3360"
+      },
+      {
+        "name": "Educational Opportunity Program (EOP)",
+        "room": "94-121",
+        "phone": "(909) 869-3360"
+      },
+      {
+        "name": "Ethnic & Women's Studies Department",
+        "room": "94-363",
+        "phone": "94-363"
+      },
+      {
+        "name": "History Department",
+        "room": "History Department",
+        "phone": "(909) 869-3860"
+      },
+      {
+        "name": "Interdisciplinary General Education Department",
+        "room": "94-321",
+        "phone": "(909) 869-3347"
+      },
+      {
+        "name": "Liberal Studies Department",
+        "room": "94-321",
+        "phone": "94-321"
+      },
+      {
+        "name": "Peer Mentoring Center",
+        "room": "94-120",
+        "phone": "(909) 869-3375"
+      },
+      {
+        "name": "Political Science Department",
+        "room": "94-303",
+        "phone": "(909) 869-3887"
+      },
+      {
+        "name": "PolyTransfer Program",
+        "room": "94-275",
+        "phone": "(909) 869-6367"
+      },
+      {
+        "name": "Student Support and Equity Programs (SSEP)",
+        "room": "94-121",
+        "phone": "(909) 869-3360"
+      }
+    ],
+    "image": "http://i.imgur.com/5pozF7o.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Women’s Resource Center, African American Student Center, Cesar E. Chavez Center",
+    "latitude": "34.057986",
+    "longtitude": "-117.822583",
+    "name": "Cultural Centers",
+    "number": "95",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/C8Xq2M1.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Career Center, Restaurants, The Cave(Computing Lab)",
+    "latitude": "34.057727",
+    "longtitude": "-117.823561",
+    "name": "Campus Center",
+    "number": "97",
+    "offices": [
+      {
+        "name": "Campus Center Computing Lab",
+        "room": "97-21",
+        "phone": "(909) 869-4193"
+      }
+    ],
+    "image": "http://i.imgur.com/vF6kqa5.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Administrative Offices",
+    "latitude": "34.059359",
+    "longtitude": "-117.819967",
+    "name": "CLA (Classroom/Laboratory/Administration)",
+    "number": "98",
+    "offices": [
+      {
+        "name": "Academic Programs",
+        "room": "98-T7-16",
+        "phone": "(909) 869-5478"
+      },
+      {
+        "name": "Academic Senate",
+        "room": "98-P2-8",
+        "phone": "(909) 869-2283"
+      },
+      {
+        "name": "Accounts Payable",
+        "room": "98-B1-113",
+        "phone": "(909) 869-2014"
+      },
+      {
+        "name": "Accounts Receivable",
+        "room": "98-B1-113",
+        "phone": "(909) 869-2029"
+      },
+      {
+        "name": "Administrative Applications",
+        "room": "98-C7-30",
+        "phone": "(909) 869-6420"
+      },
+      {
+        "name": "Administrative Office",
+        "room": "98-B1-113",
+        "phone": "(909) 869-2010"
+      },
+      {
+        "name": "Admissions and Enrollment Planning",
+        "room": "98-T2",
+        "phone": "(909) 869-5299"
+      },
+      {
+        "name": "Applications",
+        "room": "98-C7-10",
+        "phone": "(909) 869-6426"
+      },
+      {
+        "name": "Articulation",
+        "room": "98-R2-7",
+        "phone": "(909) 869-2994"
+      },
+      {
+        "name": "Benefit Services",
+        "room": "98-B1-20",
+        "phone": "(909) 869-3734"
+      },
+      {
+        "name": "Budget Services",
+        "room": "98-B1-113",
+        "phone": "(909) 869-3012"
+      },
+      {
+        "name": "Budget Services",
+        "room": "98-B1-123",
+        "phone": "(909) 869-3012"
+      },
+      {
+        "name": "Business Intelligence",
+        "room": "98-C7-10",
+        "phone": ""
+      }
+    ],
+    "image": "http://i.imgur.com/xOILxWC.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Parking Ticket Appeals, Rideshare Office",
+    "latitude": "34.0607632",
+    "longtitude": "-117.8159437",
+    "name": "Police and Parking Services",
+    "number": "109",
+    "offices": [
+      {
+        "name": "Rideshare Office",
+        "room": "130",
+        "phone": "(909)869-3233"
+      }
+    ],
+    "image": "http://i.imgur.com/FJlOaky.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Kellogg Manor",
+    "latitude": "34.060484",
+    "longtitude": "-117.822935",
+    "name": "Manor House",
+    "number": "111",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/JBdFk0L.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Kellogg house, Available for events",
+    "latitude": "34.062565",
+    "longtitude": "-117.824439",
+    "name": "Kellogg House Pomona",
+    "number": "112",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/GqoyXjk.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Children's daycare",
+    "latitude": "34.056055",
+    "longtitude": "-117.819533",
+    "name": "Child Care Center",
+    "number": "116",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/VuLR2FI.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "Mexican-American Student Association (M.A.S.A.) Building",
+    "latitude": "34.057231",
+    "longtitude": "-117.820868",
+    "name": "M.A.S.A Building",
+    "number": "150",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/jKnDAfC.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "College of Business Administration - Faculty and Administrative offices, Pony Express, Einstein Bagels",
+    "latitude": "34.061276",
+    "longtitude": "-117.819575",
+    "name": "College of Business Administration",
+    "number": "162",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "College of Business Administration - Classrooms",
+    "latitude": "34.061195",
+    "longtitude": "-117.82011",
+    "name": "College of Business Administration",
+    "number": "163",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/7lmZjew.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "College of Business Administration - Auditorium.",
+    "latitude": "34.061618",
+    "longtitude": "-117.819818",
+    "name": "College of Business Administration",
+    "number": "164",
+    "offices": [
+      {
+        "name": "Accounting Department",
+        "room": "2064",
+        "phone": "(909)869-2365"
+      },
+      {
+        "name": "College of Business Administration",
+        "room": "2001",
+        "phone": "(909)869-2400"
+      },
+      {
+        "name": "Information & Advising Center",
+        "room": "1060",
+        "phone": "(909)869-2361"
+      }
+    ],
+    "image": "http://i.imgur.com/OEpnb8b.gif",
+    "floorplan": "https://i.imgur.com/KuoN4fk.png"
+  },
+  {
+    "description": "John T. Lyle Center for Regenerative Studies",
+    "latitude": "34.055337",
+    "longtitude": "-117.824476",
+    "name": "Center for Regenerative Studies",
+    "number": "209",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/4Wn2kjg.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "University farm store and Agriscapes main office",
+    "latitude": "34.048478",
+    "longtitude": "-117.819251",
+    "name": "Agriscapes/Farm Store",
+    "number": "211",
+    "offices": [
+    ],
+    "image": "http://i.imgur.com/jbGWBR6.gif",
+    "floorplan": ""
+  },
+  {
+    "description": "ROTC Center",
+    "latitude": "34.058241",
+    "longtitude": "-117.820762",
+    "name": "Army ROTC",
+    "number": "13A",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "ROTC Center",
+    "latitude": "34.058357",
+    "longtitude": "-117.820676",
+    "name": "Army ROTC",
+    "number": "13B",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Pre-College program center",
+    "latitude": "34.058468",
+    "longtitude": "-117.820455",
+    "name": "Pre-College TRIO",
+    "number": "13C",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "AGRIscapes Agricultural Outreach Center",
+    "latitude": "34.048233",
+    "longtitude": "-117.819648",
+    "name": "Agriscapes",
+    "number": "211A",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Extra classroom, reserved by teachers when needed",
+    "latitude": "34.0563",
+    "longtitude": "-117.822453",
+    "name": "Temporary Classroom A",
+    "number": "24A",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Extra classroom, reserved by teachers when needed",
+    "latitude": "34.056171",
+    "longtitude": "-117.822386",
+    "name": "Temporary Classroom B",
+    "number": "24B",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Extra classroom, reserved by teachers when needed",
+    "latitude": "34.055918",
+    "longtitude": "-117.822381",
+    "name": "Temporary Classroom C",
+    "number": "24C",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Extra classroom, reserved by teachers when needed",
+    "latitude": "34.056007",
+    "longtitude": "-117.822526",
+    "name": "Temporary Classroom D",
+    "number": "24D",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Extra classroom, reserved by teachers when needed",
+    "latitude": "34.056198",
+    "longtitude": "-117.822623",
+    "name": "Temporary Classroom E",
+    "number": "24E",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "Orientation center, in University Plaza",
+    "latitude": "34.056715",
+    "longtitude": "-117.820553",
+    "name": "Student Orientation Center",
+    "number": "26A",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "University Art Gallery, north of BSC",
+    "latitude": "34.056123",
+    "longtitude": "-117.821242",
+    "name": "W. Keith and Janet Kellogg University Art Gallery",
+    "number": "35A",
+    "offices": [
+    ],
+    "image": ""
+  },
+  {
+    "description": "College of Hospitality Management",
+    "latitude": "34.055097",
+    "longtitude": "-117.824776",
+    "name": "Collins College of Hospitality Management",
+    "number": "79A",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  },
+  {
+    "description": "College of Hospitality Management",
+    "latitude": "34.055337",
+    "longtitude": "-117.824476",
+    "name": "Collins College of Hospitality Management",
+    "number": "79B",
+    "offices": [
+    ],
+    "image": "",
+    "floorplan": ""
+  }
+]
+

@@ -1,0 +1,227 @@
+[
+  {
+    "latitude": "34.057557",
+    "longtitude": "-117.821598",
+    "name": "Starbucks",
+    "number": "Building 15",
+    "image": "http://i.imgur.com/EwrCbZs.jpg",
+    "description": "Starbucks at the University Library serves up your favorite gourmet coffee, espressos, lattes, and seasonal beverages. The Starbucks menu includes hot breakfast favorites, bakery items, yogurt parfaits, fruit medleys, and a variety of sandwiches. Starbucks at the University Library is open on evenings and weekends.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-4744"
+      }
+    ]
+  },
+  {
+    "latitude": "34.054038",
+    "longtitude": "-117.818083",
+    "name": "The Den By Denny's",
+    "number": "Building 52",
+    "image": "http://i.imgur.com/keraHqo.jpg",
+    "description": "Come in and you'll see that is not your dad's diner. This is a place with a vibe. Where you step right up to the counter and order a hand-smashed burger. For breakfast. Or a Grand Slamwich®. At midnight. This is the local hang-out where friends meet up to chow down. Whenever. Whyever. The look is lounge. The feel is easy-chair communal comfort zone. The menu is breakfast all-day, plus sandwiches, burritos, salads—all made the way we eat today. Saucy, spicy, slightly unruly, proudly old-schooley. (Hand-mixed shakes, anyone?) This is 'The Den'.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-2425"
+      }
+    ]
+  },
+  {
+    "latitude": "34.053949",
+    "longtitude": "-117.818072",
+    "name": "Vista Market",
+    "number": "Building 52",
+    "image": "http://i.imgur.com/keraHqo.jpg",
+    "description": "We are a fully stocked, one-stop-shop neighborhood store with a fun community vibe that offers personal items and the staples needed to prepare home-cooked meals.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-5111"
+      }
+    ]
+  },
+  {
+    "latitude": "34.057727",
+    "longtitude": "-117.823322",
+    "name": "Panda Express",
+    "number": "Building 97",
+    "image": "http://i.imgur.com/bwlt9fr.jpg",
+    "description": "From world-famous orange chicken to delicious chow mein, Panda Express defines American-Chinese cuisine with bold flavors and fresh ingredients. Panda Express entrees and sides contain zero grams of trans fat per serving and adds no MSG in their food. Panda Express uses only 100% pure soybean oil in the preparation of recipes.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-5099"
+      }
+    ]
+  },
+  {
+    "latitude": "34.057715",
+    "longtitude": "-117.823238",
+    "name": "Carl's Jr.",
+    "number": "Building 97",
+    "image": "http://i.imgur.com/Dsugiu2.jpg",
+    "description": "Carl's Jr. features items such as charbroiled hamburgers, chicken sandwiches, turkey burgers, fish sandwiches, French fries, fresh salads, and breakfast items.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-5269"
+      }
+    ]
+  },
+  {
+    "latitude": "34.061503",
+    "longtitude": "-117.811642",
+    "name": "QDOBA Mexican Eats",
+    "number": "Bronco Student Center / 35",
+    "image": "http://i.imgur.com/hup3ccC.jpg",
+    "description": "Qdoba Mexican Grill is a Mexican kitchen where anyone can come to enjoy a fresh, handcrafted meal prepared right in front of them. Qdoba showcases food that celebrates its passion for high-quality ingredients, a menu full of innovative flavors, handcrafted preparation and inviting service. With an extensive menu and wide variety of unique menu items, every guest can find a culinary creation sure to satisfy their taste buds.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-6751"
+      }
+    ]
+  },
+  {
+    "latitude": "34.055931",
+    "longtitude": "-117.821138",
+    "name": "Hibachi-San",
+    "number": "Bronco Student Center / 35",
+    "image": "http://i.imgur.com/PgIcSoH.jpg",
+    "description": "Hibachi-San is a blend of traditional Japanese food like teriyaki, tempura, and sushi and newer concepts such as poke bowls. Using only the freshest ingredients, Hibachi-San prepares all of its entrées on site and features mouthwatering original recipes from Master Chef Ming-Tsai Cherng.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-4602"
+      }
+    ]
+  },
+  {
+    "latitude": "34.055877",
+    "longtitude": "-117.821093",
+    "name": "Subway",
+    "number": "Bronco Student Center / 35",
+    "image": "http://i.imgur.com/4PULb0S.jpg",
+    "description": "The combination of fiber, complex carbohydrates, protein, minerals, and vitamins make Subway's low-fat sandwiches ideal for customers looking to make balanced food choices. Begin with your choice of bread, fresh baked daily right here in our restaurant, topped with fresh meats, cheeses, and vegetables. Many of our sandwiches have less than 6 grams of fat. We also offer salads that are equal to five servings of vegetables.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-6751"
+      }
+    ]
+  },
+  {
+    "latitude": "34.055829",
+    "longtitude": "-117.821050",
+    "name": "Peet's Cofee & Tea",
+    "number": "Bronco Student Center / 35",
+    "image": "http://i.imgur.com/hiO3z2D.jpg",
+    "description": "Since 1966, Peet's Coffee & Tea has offered superior coffees and teas by sourcing the best quality coffee beans and tea leaves in the world, and adhering to strict high quality and taste standards.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-6751"
+      }
+    ]
+  },
+  {
+    "latitude": "34.054799",
+    "longtitude": "-117.823972",
+    "name": "The Restaurant At Kellogg Ranch",
+    "number": "Collins College of Hospitality Management",
+    "image": "http://i.imgur.com/z7B4ZzD.jpg",
+    "description": "Overlooking beautiful, rolling hills, the Restaurant at Kellogg Ranch at Cal Poly Pomona boasts one of the area’s most romantic and chic settings. The Restaurant at Kellogg Ranch is operated and managed by students, serving both lunch and dinner. The restaurant embodies Cal Poly Pomona’s learn-by-doing tradition and is a central component to The Collins College of Hospitality Management’s curriculum.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-4700"
+      }
+    ]
+  },
+  {
+    "latitude": "34.056615",
+    "longtitude": "-117.824869",
+    "name": "H Café",
+    "number": "Kellogg West Education/Dining",
+    "image": "http://i.imgur.com/kL9AJ6Q.jpg",
+    "description": "H Café is a small convenience store serving grab-and-go snacks, beverages, and self-serve Starbucks coffee.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-6928"
+      }
+    ]
+  },
+  {
+    "latitude": "34.054301",
+    "longtitude": "-117.820438",
+    "name": "Jamba Juice",
+    "number": "BRIC",
+    "image": "http://i.imgur.com/0Mjf0kh.jpg",
+    "description": "With 2.5 to 3.5 servings of fruit in each drink, Jamba Juice smoothies are a healthy and tasty treat. Jamba Juice also offers all-natural baked goods, steel-cut oatmeal, sandwiches, and other delicious, healthy choices.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 979-5740"
+      }
+    ]
+  },
+  {
+    "latitude": "34.061507",
+    "longtitude": "-117.820270",
+    "name": "Einstein Bros. Bagels",
+    "number": "Building 163",
+    "image": "http://i.imgur.com/NmvpNBm.jpg",
+    "description": "Einstein Bros. Bagels is your neighborhood bagel shop. We're proud to provide our guests with freshly baked bagels, breakfast sandwiches, lunch sandwiches, salads, parfaits, smoothies, coffee, and catering. Stop on in!",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 979-6003"
+      }
+    ]
+  },
+  {
+    "latitude": "34.057707",
+    "longtitude": "-117.823113",
+    "name": "Taco Bell",
+    "number": "Building 97",
+    "image": "http://i.imgur.com/slEG9ym.jpg",
+    "description": "From classic bean burritos to specialties, such as nacho cheese Doritos locos tacos, Taco Bell Express offers a variety of flavors to satisfy your craving. Live Más®!",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-2925"
+      }
+    ]
+  },
+  {
+    "latitude": "34.055889",
+    "longtitude": "-117.821119",
+    "name": "The Round Table Pizza",
+    "number": "Bronco Student Center / 35",
+    "image": "http://i.imgur.com/PL3dv1I.jpg",
+    "description": "Round Table Pizza has always been known for quality ingredients. Our dough is rolled fresh each day. Our zesty red sauce is made from scratch with eleven herbs and spices and our three cheese blend is made with the best whole milk mozzarella, provolone and cheddar cheeses. Add juicy premium meats and fresh gourmet veggies on top of our World-class crust and you will have the best pizza in all the land.",
+    "offices": [
+      {
+        "name": "Contact Us",
+        "room": "",
+        "phone": "(909) 869-5411"
+      }
+    ]
+  }
+]
