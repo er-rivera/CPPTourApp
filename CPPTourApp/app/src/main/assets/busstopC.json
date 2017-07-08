@@ -1,0 +1,50 @@
+[
+     {
+        "latitude": "34.057385",
+        "longtitude": "-117.822609",
+        "name": "Campus Center Marketplace",
+        "number": "Stop #37"
+     },
+     {
+        "latitude": "34.056292",
+        "longtitude": "-117.827027",
+        "name": "Camphor Lane/Lot M",
+        "number": "Stop #36"
+     },
+     {
+        "latitude": "34.056345",
+        "longtitude": "-117.827135",
+        "name": "Camphor Lane",
+        "number": "Stop #38"
+     },
+     {
+        "latitude": "34.051592",
+        "longtitude": "-117.819982",
+        "name": "PS2 Northeast",
+        "number": "Stop #305"
+     },
+     {
+        "latitude": "34.051477",
+        "longtitude": "-117.820043",
+        "name": "PS2 Northwest",
+        "number": "Stop #306"
+     },
+     {
+        "latitude": "34.051052",
+        "longtitude": "-117.818667",
+        "name": "PS2 Southeast",
+        "number": "Stop #304"
+     },
+     {
+        "latitude": "34.050957",
+        "longtitude": "-117.818735",
+        "name": "PS2 Southwest",
+        "number": "Stop #307"
+     },
+     {
+        "latitude": "34.052834",
+        "longtitude": "-117.815565",
+        "name": "Parking Lot B",
+        "number": "Stop #33"
+     }
+]

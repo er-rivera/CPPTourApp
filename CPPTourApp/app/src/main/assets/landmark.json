@@ -1,0 +1,163 @@
+[
+  {
+    "description": "Originally the site of the Kellogg Arabian horse stables until the new Horse Center was built in 1974. The building was remodeled and became an extension of the University Union and a center for student organizations in 1981.",
+    "latitude": "34.057075",
+    "longtitude": "-117.820038",
+    "name": "University Plaza",
+    "number": "26",
+    "events": [
+      {
+        "name": "Hot Dog Caper",
+        "description": "An annual all-you-can-eat hot dog event hosted by Cal Poly Foundation. Students get the chance to socialize and win some cool prizes."
+      }
+    ],
+    "image": "http://i.imgur.com/FM5zvFK.png"
+  },
+  {
+    "description": "The BRIC's pool offers a multi-laned 25-yard long pool  as well as a shallow 'pond' area for other recreational activities. The pool is sidelined by lounging chairs and hammocks for relaxing as well. Many aquatic classes are offered by the BRIC if you want to learn something new.",
+    "latitude": "34.054152",
+    "longtitude": "-117.820527",
+    "name": "Swimming Pool",
+    "number": "44",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/OhsoiQG.jpg"
+  },
+  {
+    "description": "It's greenhous, gardens, and stations provide interactive and educational connections to the tropical rainforest, California's indigenous plants and people, and other ancient and present day habitats.",
+    "latitude": "34.057204",
+    "longtitude": "-117.826497",
+    "name": "BioTrek Learning Center - Ethnobotany Garden",
+    "number": "4A",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/L3vqQBN.png"
+  },
+  {
+    "description": "Built in 1926 and featuring 30 varieties of roses, the rose garden is one of the most beautiful and relaxing places on campus.",
+    "latitude": "34.060844",
+    "longtitude": "-117.820356",
+    "name": "Rose Garden",
+    "number": "",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/lihX46T.jpg"
+  },
+  {
+    "description": "Currently under planned remodeling, the Scolinos Field is named in honor of the late John Scolinos who led Cal Poly to several Division II titles.",
+    "latitude": "34.053604",
+    "longtitude": "-117.81607",
+    "name": "Scolinos Field (Baseball)",
+    "number": "",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/kkj4S6h.jpg"
+  },
+  {
+    "description": "Located in front of the BSC, you will find many students lounging in this spacious area as well as many activities and booths set up by Cal Poly clubs.",
+    "latitude": "34.056727",
+    "longtitude": "-117.820975",
+    "name": "University Park",
+    "number": "",
+    "events": [
+      {
+        "name": "Hot Dog Caper",
+        "description": "An annual all-you-can-eat hot dog event hosted by Cal Poly Foundation. Students get the chance to socialize and win some cool prizes."
+      }
+    ],
+    "image": "http://i.imgur.com/MgcgG5h.jpg"
+  },
+  {
+    "description": "Large central spacious university quad area. With trees to sit under or hand hammocks off of, and grass to rest on it's the perfect place for a break between classes. The campus marketplace sidelines the quad if you want a quick bite to eat.",
+    "latitude": "34.058638",
+    "longtitude": "-117.823784",
+    "name": "University Quad",
+    "number": "",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/3TyOqDg.jpg"
+  },
+  {
+    "description": "Cal Poly Pomona is home to 10 tennis courts ready to be played on.",
+    "latitude": "34.052907",
+    "longtitude": "-117.820357",
+    "name": "Tennis Courts",
+    "number": "",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/kHSD4az.jpg"
+  },
+  {
+    "description": "The japanese garden with a koi pond, waterfall, and very tranquil environment is a great place to relax and to take a stroll through.",
+    "latitude": "34.059924",
+    "longtitude": "-117.82042",
+    "name": "Aratani Japanese Garden",
+    "number": "",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/gDX8EpM.jpg"
+  },
+  {
+    "description": "Located south of the Kellogg gym, these fields are used for anything from soccer to ultimate frisbee.",
+    "latitude": "34.052785",
+    "longtitude": "-117.818344",
+    "name": "Auxiliary Activity Field",
+    "number": "",
+    "events": [
+    ],
+    "image": ""
+  },
+  {
+    "description": "Outdoor experiments, such as surveying, operating autonomous roving robots, and flying experimental model aircraft, are conducted on the Engineering Meadow.",
+    "latitude": "34.059241",
+    "longtitude": "-117.821114",
+    "name": "Engineering Meadow",
+    "number": "",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/QL0XGUT.jpg"
+  },
+  {
+    "description": "Kellogg Field (1,000 capacity) is home to the Cal Poly Pomona men's and women's soccer teams, as well as the men's and women's track and field squads. With a spectacular view of the mountains to the north, Kellogg Field is an ideal setting for watching a California Collegiate Athletic Association soccer doubleheader or a track and field competition. A concession stand and restrooms are located just south from the bleachers.",
+    "latitude": "34.052368",
+    "longtitude": "-117.817013",
+    "name": "Kellogg Track and Soccer Field",
+    "number": "",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/Ix8qOk6.jpg"
+  },
+  {
+    "description": "Home to Cal Poly's famous Pumpkin Festival held every October. Over 80,000 pumpkins are grown here for the event.",
+    "latitude": "34.049671",
+    "longtitude": "-117.818305",
+    "name": "Agriscapes Pumpkin Field",
+    "number": "",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/cwZXrzK.jpg"
+  },
+  {
+    "description": "Host to free entertainment, food and activities set up by campus clubs, the Bronco commons are a great place to hang out with friends.",
+    "latitude": "34.055018",
+    "longtitude": "-117.820268",
+    "name": "Bronco Commons",
+    "number": "",
+    "events": [
+    ],
+    "image": ""
+  },
+  {
+    "description": "Built in honor of Charles Voorhis, a founder of what came to became as Cal Poly Pomona.",
+    "latitude": "34.059916",
+    "longtitude": "-117.818584",
+    "name": "Voorhis Park",
+    "number": "",
+    "events": [
+    ],
+    "image": "http://i.imgur.com/ezCOlq6.jpg"
+  }
+]
+
+
+

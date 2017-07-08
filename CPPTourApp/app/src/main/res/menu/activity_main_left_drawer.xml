@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group
+        android:id="@+id/menu_left_top"
+        android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_left_start"
+            android:icon="@drawable/ic_menu_send"
+            android:title="Start Tour" />
+    </group>
+
+    <item android:title="Filters">
+        <menu
+            android:id="@+id/menu_left_middle"
+            android:checkable="true"
+            android:checked="true">
+            <item
+                android:id="@+id/nav_left_check_1"
+                android:title="Buildings"
+                app:actionLayout="@layout/widget_check_buildings" />
+            <item
+                android:id="@+id/nav_left_check_2"
+                android:checked="true"
+                android:title="Points of Interest"
+                app:actionLayout="@layout/widget_check_interest" />
+            <item
+                android:id="@+id/nav_left_check_3"
+                android:title="Parking Lots"
+                app:actionLayout="@layout/widget_check_buildings" />
+            <item
+                android:id="@+id/nav_left_check_4"
+                android:title="Restaurants"
+                app:actionLayout="@layout/widget_check_buildings" />
+            <item
+                android:id="@+id/nav_left_check_5"
+                android:title="Bus Tour A"
+                app:actionLayout="@layout/widget_check_buildings" />
+            <item
+                android:id="@+id/nav_left_check_6"
+                android:title="Bus Tour B"
+                app:actionLayout="@layout/widget_check_buildings" />
+            <item
+                android:id="@+id/nav_left_check_7"
+                android:title="Bus Tour C"
+                app:actionLayout="@layout/widget_check_buildings" />
+        </menu>
+    </item>
+
+
+</menu>

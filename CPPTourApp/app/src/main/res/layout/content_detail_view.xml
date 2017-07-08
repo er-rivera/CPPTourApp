@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/white"
+    android:orientation="vertical"
+    android:paddingBottom="16dp">
+
+
+    <LinearLayout
+        android:id="@+id/bottom_sheet_peek_bar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/bottom_sheet_peek_height"
+        android:background="@color/colorPrimary"
+        android:orientation="horizontal"
+        android:paddingBottom="8dp"
+        android:paddingEnd="16dp"
+        android:paddingStart="16dp"
+        android:paddingTop="8dp">
+
+        <LinearLayout
+            android:id="@+id/bottom_sheet_peek_bar_container"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="horizontal"
+            android:weightSum="7">
+
+            <RelativeLayout
+                android:layout_width="0dp"
+                android:layout_height="match_parent"
+                android:layout_weight="6"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/bottomSheetHeading"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_centerVertical="true"
+                    android:paddingBottom="5dp"
+                    android:text="Select a marker on the map"
+                    android:textColor="@android:color/white"
+                    android:textSize="19sp" />
+
+                <TextView
+                    android:id="@+id/bottomSheetSubheader"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/bottomSheetHeading"
+                    android:layout_centerHorizontal="true"
+                    android:textColor="@android:color/white"
+                    android:textSize="12sp" />
+
+            </RelativeLayout>
+
+            <TextView
+                android:id="@+id/bottomSheetHeadingDistance"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:layout_marginLeft="40dp"
+                android:layout_marginTop="10dp"
+                android:layout_weight="1"
+                android:text=""
+                android:textColor="@android:color/white"
+                android:textSize="14sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/lower_container_detail_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <ImageView
+            android:id="@+id/bottomSheetImage"
+            android:layout_width="match_parent"
+            android:layout_height="200dp"
+            android:background="@android:color/holo_green_light"
+            android:scaleType="centerCrop" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="@drawable/border_bottom"
+            android:gravity="center_horizontal"
+            android:orientation="horizontal"
+            android:paddingBottom="12dp"
+            android:paddingEnd="16dp"
+            android:paddingStart="16dp">
+
+
+
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginStart="20dp"
+                android:orientation="vertical">
+
+                <ImageButton
+                    android:id="@+id/navigation_detail_selection"
+                    android:layout_width="70dp"
+                    android:layout_height="50dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    android:padding="15dp"
+                    android:scaleType="centerCrop"
+                    app:srcCompat="@drawable/navigation_btn" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="NAVIGATE"
+                    android:textColor="@android:color/black" />
+            </LinearLayout>
+
+            <RelativeLayout
+                android:layout_width="100dp"
+                android:layout_height="match_parent">
+            </RelativeLayout>
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent">
+
+                <ImageButton
+                    android:id="@+id/favorites_detail_selection"
+                    android:layout_width="70dp"
+                    android:layout_height="60dp"
+                    android:layout_centerHorizontal="true"
+                    android:background="?attr/selectableItemBackgroundBorderless"
+                    app:srcCompat="@drawable/ic_like_clear" />
+
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentBottom="true"
+                    android:text="FAVORITE"
+                    android:textColor="@android:color/black" />
+            </RelativeLayout>
+        </LinearLayout>
+
+
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:layout_marginStart="16dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_vertical"
+                android:text="DESCRIPTION"
+                android:textColor="@android:color/darker_gray"
+                android:textSize="18sp" />
+        </FrameLayout>
+
+
+        <TextView
+            android:id="@+id/description_bottom_sheet"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="16dp"
+            android:layout_marginBottom="20dp"
+            android:text="Description goes here"
+            android:textColor="@android:color/black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/bottom_sheet_list_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="LISTINGS" />
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/bottom_sheet_recycler"
+            android:layout_marginStart="16dp"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="16dp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content" />
+
+        <TextView
+            android:id="@+id/bottom_sheet_restroom_text"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:text="RESTROOM LOCATION(1st Floor Only)" />
+
+        <com.davemorrissey.labs.subscaleview.SubsamplingScaleImageView
+            android:scaleType="fitXY"
+            android:layout_width="match_parent"
+            android:layout_height="300dp"
+            android:id="@+id/subSamplingImageView"/>
+
+    </LinearLayout>
+
+</LinearLayout>

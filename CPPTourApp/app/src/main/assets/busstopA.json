@@ -1,0 +1,92 @@
+[
+     {
+        "latitude": "34.059806",
+        "longtitude": "-117.819204",
+        "name": "CLA",
+        "number": "Stop #222"
+     },
+     {
+        "latitude": "34.059987",
+        "longtitude": "-117.818158",
+        "name": "Parking Stucture",
+        "number": "Stop #223"
+     },
+     {
+        "latitude": "34.060600",
+        "longtitude": "-117.818314",
+        "name": "Building 91",
+        "number": "Stop #221"
+     },
+     {
+        "latitude": "34.061534",
+        "longtitude": "-117.818330",
+        "name": "Red Gum/Univ. Dr./Lot F2",
+        "number": "Stop #224"
+     },
+     {
+        "latitude": "34.061374",
+        "longtitude": "-117.820980",
+        "name": "Resident Hall",
+        "number": "Stop #225"
+     },
+     {
+        "latitude": "34.061205",
+        "longtitude": "-117.820991",
+        "name": "Rose Garden",
+        "number": "Stop #220"
+     },
+     {
+        "latitude": "34.059334",
+        "longtitude": "-117.824108",
+        "name": "Building 1",
+        "number": "Stop #226"
+     },
+     {
+        "latitude": "34.059525",
+        "longtitude": "-117.823496",
+        "name": "Building 94",
+        "number": "Stop #219"
+     },
+     {
+        "latitude": "34.058005",
+        "longtitude": "-117.827133",
+        "name": "Student Health Service",
+        "number": "Stop #227"
+     },
+     {
+        "latitude": "34.056992",
+        "longtitude": "-117.827702",
+        "name": "Building 7 - College of Environmental Design",
+        "number": "Stop #218"
+     },
+     {
+        "latitude": "34.049399",
+        "longtitude": "-117.817008",
+        "name": "Entrance University Village",
+        "number": "Stop #228"
+     },
+     {
+        "latitude": "34.048501",
+        "longtitude": "-117.815130",
+        "name": "University Village",
+        "number": "Stop #175"
+     },
+     {
+        "latitude": "34.049719",
+        "longtitude": "-117.816911",
+        "name": "So Campus/Temple",
+        "number": "Stop #216"
+     },
+     {
+        "latitude": "34.053097",
+        "longtitude": "-117.812855",
+        "name": "Innovation Village",
+        "number": "Stop #217"
+     },
+     {
+        "latitude": "34.050385",
+        "longtitude": "-117.813724",
+        "name": "Innovation way at IBW",
+        "number": "Stop #298"
+     }
+]
