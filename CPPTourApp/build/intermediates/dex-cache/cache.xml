@@ -1,0 +1,500 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/eadc7a88bd3aea215eb9f57e1c00d42d6aa2aa76/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de24d8023e8da79f30bee46b298f606e5e758432">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_21b5a4e5fcce77a455a0da5b4439e72c67771c72/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/4bb19a9d321f5035651a6886e8c6ba299e3617f2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5c1f80f62ccad560edcd6609fc75f385cf7cb45a">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2f5aa97d265605b0528957a557ebd027773f0024/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/3e01b4477ff43a46c1131eaa82850ec3b51cefe3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cad5ae5774f39b7017a3ae3d103e7b78506397b0">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bf0b9385d00343d23a1a650377724c8fae076809/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/c01fc56857c869b78e6bf1451e43857a2fcc2df8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9be5e957849eb82ad9addf9bdb2896de8bf5654b">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3dd00665b8e9c40e8db429c95ca02be3e96fe477/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/7b49aa3c33514406db5e6d7ed2c207060fe38338/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a00607e7cf55392edd324bc8fa3827ded7e9859b">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0a66a78b83cacc0e5529561ffee8b9ff3cbac81a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/40b8cf31c3d17fe37b1f2877b9e070ff05bd219a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="740c4226d6bec1adaaf5fee4b9178674b695f75a">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_978bedb1fb5d0cd8b2a59f1bfe8a1fcfaa8d99f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/aec9e8e985276ae6c8569e6d5f2eca94bea8c500/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0a534044236cf81b002604643d23e7ca56bd1ee0">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d491af23f41f75898cefaf9b7adf022338df6c7f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/bceef5e44963255d8d5b096f13bd83728c42ba93/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1172091167cff5873cbcccad4c0e08ec9e3240de">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f36b4a396a937b310fbb3e381020a0c0e044830d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/df18abf16260139bf567ba384736c49d683452c2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f9aa417cd6d4373c413f6e60865133bcfdb7096b">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_02585a2fca84c10617692fa7c65fe117358ac4f2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/d84772920de2c8209979c380d7a7b4fce779d92f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f1968b9614bc6851e99db64e356cf60063503e5d">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b58bea3e627870145b29b6efeb47eb2f0adfd761/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/16836025fb8187b7e6401cc388b42c83ae079b80/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b34276d1fea450411cedd49d3146b04838f9dd6e">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_563685d36f08004f0f2e0359e89501980c526e82/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/com.squareup.picasso/picasso/2.5.2/7446d06ec8d4f7ffcc53f1da37c95f200dcb9387/picasso-2.5.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7446d06ec8d4f7ffcc53f1da37c95f200dcb9387">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/picasso-2.5.2_f4ed56501644de143fe117673df4d167a764ecf8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/4a1d3a1b0c47e818f57134c6e7736a6f9fea4a43/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cea6fccbfe2b9ca7701a8766710179cd41ae1974">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f43b23462ba94d7253179247362ca6553d12395e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/814aab23f04d3b725411a17fb3907896be1716a8/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="84a9797d6c3dd732d00f0433edc17778573cea17">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_11446d848472b991007bd514e2c2028a0069ab32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/7220c929325430ea8cfcb1a712afb412c9f246a3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="577aa74e06e6b4b407ff23ac75043685ae26dcbb">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5ddf4e8b271c249de05e5375c43fe3720ad5ba1a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2fa59933f6785234fdba9c1b88a2059737a6a4d7">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_1f83b821d69b35a52e072322d7e47774fefeba32/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/3c233f2719d81c5bdac56d5b3ad06b1d143fe19e/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7b3eaf755284fb08a6d616a55fbb07dc3917d5e7">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8fefdc48e237bf185b247d5adf5e392ac8fc4c97/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/51e2bff8b5acfec1b4e38f5e269b77faaaeedf0d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f83a631abfdb790591a720e0cfb5f41329831c3">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dde65c1e0bef1a223713b2c680156a599c1b1430/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/35f7dd83920e37095cb6aacbeff788aacd2fc848/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cf5f630e354827a90ffe90ce2a330495108f0595">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ec1d7a70b6a02688b9aba88d41a8e705a6ec6810/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/6dc6142233a559a906bff921f3f8533281890a03/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="215363c803a119c16058c8bc0ccd0a4ee62e7157">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f7608cd8d2547a39622754a070fc695ba77686b3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/7acd3b9d36b712e55a298abecf8e53d4b64b3950/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f0a85e6000998ac322ddd50750e8cf91601a84b">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d57c74cb366e083fcbd942dd1ccfba98fb14ef8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/f0d69e4edbd6e32bfa81c57d74c7fd45c11bf38f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="7979972576b6dbb1688052e42e5199abb54f81ba">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36a2a435f682fcdaeb75d2e8e6dd3fcb8ea85284/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/b0da3491d58df2e9147bab5665bf2c780708320b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ab2c6111c9e733c965725976ca2a2e57670000f9">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_4b31e6e687f63da2c1b23334c22f0ef69fd8b291/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/0ad52e82e6b8a82cef629959e26d2a34a9076d20/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6924cbba8248329a8c58ead6a380efe7eee76e">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7fba4dcc4df717e9e877144bfaf6b7d5c76ee413/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/3fa24561ade1070188f7dd39943af8c6b3ce02dc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="79100391e3b32d7323a04b7b8a9c8ad0adbae583">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_114ad19c21b4a955881bd47def4d6a3332c6a6dc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/a6f1ceb56197f0fc573abe4566ad44fae0ca8569/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d54a722583c1b99735f62d395806fa38bf5669ae">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_27f22f073c788a59ac95ee8a84a829ab1d07a8fc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/15b7110b98d14b594675630e9e79754d25b62c7d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="da832806828ba407284c0c4b1d87b8f9ed9f2520">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2e885b9f1731552e40a9f49af95a95c0508c3c69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/65a1384ee0ab40ee218c47ecc14122c4057995b4/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="29bd9a40adebb952fbe97515aac9db5dfbd90d93">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_950768e4f1be3f3c943c338dc45a4510a4a02c4b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/51d952edef829fd202a1a7df91070195a010b9c3/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aec5337725e7a3171f7f40a50d9837745693d429">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_47c6ec03938c58198bda318a493328b4c401dc8e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/d2600f0db31d3af4de2b791554cbf70e22e07fe5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9b775d7b643397da3ab57e62ae8abb74a9cc9a83">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_dac87eea5490f684b37b1817bd20dcdbc22bf0e2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/aa601a1188e08e9b42c4ee1045cd532cc27b3b40/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d068a922134f5f9b9f98bfc609145e09af03c2a4">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_621d64218bee7fd715e34733161e0c9a51713da8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_57f9d5760be763b02a99de3ecb115df5a2a62c6c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/9329f7d3f0f59c0bd5f644d1488cd7e8b1660dc7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ba4defc8cb4ed5b90b8ef71602722cdeebe507cd">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_5248404514d718897009faeb5593cb2eddc39066/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/b1b8904a6de7366c5be7c9d573b31b3132eebdb1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2f2f16fde0c662116f735951b4e830afba373cc6">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_42ca038066f3957a7153828103816ae4f64cd47c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/894d386a7c44aa0283a33ec578bdb651c47caf69/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="900a290779cdb4eb2e63b6f7806fd9f30ce4f60d">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_39b7c1f1f5f82b22504728ce21be35c01e00c8ca/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.gradle/caches/modules-2/files-2.1/org.apache.httpcomponents/httpcore/4.4.1/f5aa318bda4c6c8d688c9d00b90681dcd82ce636/httpcore-4.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f5aa318bda4c6c8d688c9d00b90681dcd82ce636">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/httpcore-4.4.1_c05eb3b1b13d09579915abdebdfdd6cf35467201/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/d3110ced88af1525a5f71774bf8971d581286e75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd057bc43f1c1e2f13566f5fe800d077b08b61b9">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_bbfeba90471d0b8a90af596d654965c10840f74c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/99cf2d2d38d025582dc43f713f44b21b77002cfc/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1b41f7538ea1af0aad76cb3253b87b13744788c2">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c913a469e0272622380f2b3c538956648ebf715a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/aa8e1e32cf25621075d6305bee0641906bb61309/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="553e58050e91d4295a2f1d1f80ea63b41ee5bc4b">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9a563fa21d4476859d398196f496707a700fa20b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/83c943a7dc03121d8c6c32213bf8b31a59d2cc86/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ae3fb5e70b67cf542338288b0d68c6c367da7367">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2751bb42866fa50dd751160fa87501c50fbf7177/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/1fe989f95d2cd52d90fc57711133269353a9909a/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c4ba6d53176502b2672a5d7d25a0000d1a6e701c">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c6115d10f41929394eb8e926d2b29bcc71d20147/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/4e393f08482cf903fb4990c311d309096e168baf/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60a8cdd1ad9b8d22a5d44bc8e479257ced2bf075">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8d4e9a3e4a908c1d03bfb24c9a4dbc1a9f95b3a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/a4f72129392e72d8511f6ad54396469f6def5116/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8a43729dd397e849f2a8bdc5d57a2f3170efb3ed">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_281f97ccaad11860fe8001c96c16eebaf3ebc477/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/731b8157c19ff9be0803e2836fa61531d36879f5/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3dbaff65d26258306561d545f88d6712ac41dd46">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3510b5cc96b21460b1ebf66d7b30a81418602b40/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/0abe018cf4aef62a0a43d96ca6d60dcd12c86d10/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="81978250f6de6ffdf2ea4632e7955613103e984c">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d845aa69fd8023bef128dab420dec398e5007604/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/586c020cbf05cbd0545df51196e85085256f343b/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69e74a8b1cbf5b8ee0fc0cca6bab1ac6c45efef8">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_361d64ba59a836e3571a83b6dec3fb74762a1ada/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/7651dd55e342f4c888113102304b467e30d75f75/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c7e0d83e333a25f969bce43db78150c63e7aa0c">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c777c79f8030f44943b0d37170b25cb69310804a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/7a7ead08f592b169c1f2a4dd650395b20e5e97e2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9ff5114aff3bfb387577ba92a11408dcf0441c24">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6d694ea5db7d6a4d32d9b209f7961ff74ccece90/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/49e3f7a90061049857f9a45132daffa0b0ef3855/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af13a350b71b437ebf4be335d02a8f785c39b111">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8a6ba632fdc535ca496415770f47521659dbae9c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/b932ad3179d5d35d70514a13d97003e567a95dd7/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9024225796c3f11342ef6a4a99439f2f988bafb0">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f8689db5b86cb5cc9a45b8a4927de0141135824d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/ed4fd33103b069eb6cbd286b0f2bda10c2bc692c/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d4e5223997fa6032b326167ee4586ae0b3498647">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a426ed6e62ddfa62844187b5d112b7ef73203fee/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/a86e486bf5beca4456ad3d2f30ca6bd8d3675837/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="079c035b2a1820bf455e0ae7fd484dec575e2182">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_22b9898d03079497efaa1fe3592820b59918de49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/c982603215ca21029eefd8ca352f945add364063/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ec94bba6a9bbd3461d90830e0a0752a6487f5484">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_032774e22874f3f924b4c5d8454ac4871e2a617d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/e1e6907043220a6b9542796d698dfd9b6115b4af/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d79c575e1d97b0298746a4c032a0c1dc201c2f82">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a130fb7c668eaabf9091e1bdc960355c820e9a2f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/user/.android/build-cache/f86bbbc9e8bba3137bca025c10e80429641f6711/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4d7184a651c5975b49928ce7c76175d491ee7a5e">
+        <dex dex="/Users/user/Documents/Silicon-Solutions-CS-480_repo/CPPTourApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_71dcebea71c6258b485b4a32698fecb15101fe9b/classes.dex" />
+    </item>
+
+</items>
